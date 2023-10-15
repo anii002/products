@@ -1,0 +1,44 @@
+body {
+  margin: 0 auto !important;
+}
+
+/* header */
+
+.header {
+  justify-content: space-between;
+  background-color: darkorchid;
+  margin: 0 auto;
+  color: #fff;
+  padding: 8px;
+}
+
+/* header */
+
+.home-section {
+  padding: 10px;
+}
+
+.empty{
+  color: red;
+}
+
+.info {
+  text-decoration: none;
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
